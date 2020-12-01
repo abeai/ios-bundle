@@ -46,3 +46,5 @@ Pods/
 
 # Jazzy docs
 SalemoveSDK/docs
+Example/ExampleApp.xcworkspace
+Podfile.lock

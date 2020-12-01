@@ -2,7 +2,7 @@ import UIKit
 import SalemoveSDK
 
 extension UIViewController {
-    func childInstance<T>(class: T.Type) -> T? {
+func childInstance<T>(class: T.Type) -> T? {
         return children.filter({ $0 is T }).first as? T
     }
 

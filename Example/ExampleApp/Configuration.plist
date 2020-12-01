@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>baseURL</key>
-			<string>BASE_URL</string>
+			<string>https://api.salemove.com/</string>
 			<key>description</key>
 			<string>Environment 1</string>
 		</dict>
@@ -15,11 +15,11 @@
 	<array>
 		<dict>
 			<key>appToken</key>
-			<string>APP_TOKEN</string>
+			<string>UfiSHi4XDe6UFfde</string>
 			<key>apiToken</key>
-			<string>API_TOKEN</string>
+			<string>p6yUAAGszBOhAIxR5OxwWA</string>
 			<key>siteID</key>
-			<string>SITE_ID</string>
+			<string>0bc3162f-922d-481a-b992-e51de7c2fc4b</string>
 			<key>description</key>
 			<string>Site 1</string>
 		</dict>
